@@ -1,0 +1,2 @@
+# friendly_javaScript_classLibrary
+javaScript类库积累
